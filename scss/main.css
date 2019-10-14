@@ -100,7 +100,7 @@
 .menu-branding .portrait {
   width: 250px;
   height: 250px;
-  background: url("../dist/img/me.jpeg");
+  background: url("../img/me.jpeg");
   border-radius: 50%;
   border: solid 3px #eece1a;
 }
@@ -173,7 +173,7 @@ body {
 }
 
 body#bg-img {
-  background: url(../dist/img/bg.jpg);
+  background: url(../img/bg.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -434,7 +434,7 @@ main#home h1 {
             transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("../dist/img/me-small.jpg");
+    background: url("../img/me-small.jpg");
     width: 150px;
     height: 150px;
   }
