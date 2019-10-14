@@ -193,13 +193,13 @@ h1,
 h2,
 h3 {
   margin: 0;
-  font-weight: 400;
+  font-weight: 350;
 }
 
 h1.lg-heading,
 h2.lg-heading,
 h3.lg-heading {
-  font-size: 5rem;
+  font-size: 4.5rem;
 }
 
 h1.sm-heading,
